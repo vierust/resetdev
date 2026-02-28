@@ -1,0 +1,2 @@
+# resetdev
+factory reset devices
